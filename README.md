@@ -1,1 +1,1 @@
-# Lab # 1.1 EvenOdd
+# Lab # 1.2 EvenOdd
